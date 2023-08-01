@@ -1,0 +1,24 @@
+.cardWrapper{
+    margin: 0 auto;
+    width: 33.333%;
+    text-align: center;
+    padding: 30px 40px;
+           
+}
+
+.cardWrapper .cardContainer{
+    width: 100%;
+}
+
+.cardWrapper h2{
+    padding-top: 60px;
+    color: white;
+}
+
+.cardWrapper .cardContainer2{
+    background: purple;
+}
+
+.cardWrapper .cardContainer2 h3{
+    color: white;
+}
